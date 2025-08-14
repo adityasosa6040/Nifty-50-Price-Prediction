@@ -21,14 +21,12 @@ This chart shows the model's predictions on both the training (solid red) and te
 
 ![Nifty50 Price Prediction](<img width="1178" height="547" alt="Quant Model Nifty" src="https://github.com/user-attachments/assets/541c7313-fd11-4f4d-8af9-3a02d58c0a13" />
 )
-*Note: To make this image appear, save the first plot from your notebook into an `images` folder in your repository and name it `historical_prediction.png`.*
 
 ### Future 30-Day Forecast
 This chart displays the historical data along with the model's 30-day forecast into the future.
 
 ![Nifty50 30-Day Forecast](<img width="1178" height="547" alt="Quant Model Prediction" src="https://github.com/user-attachments/assets/e0571113-5b6c-43bc-8ea0-ea770742740f" />
 )
-*Note: To make this image appear, save the second plot from your notebook into the `images` folder and name it `future_forecast.png`.*
 
 ## ⚙️ Model Architecture
 
