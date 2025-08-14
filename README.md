@@ -20,13 +20,15 @@ The notebook walks through the complete process of creating a time-series foreca
 This chart shows the model's predictions on both the training (solid red) and testing (dashed red) data against the actual closing prices (blue).
 
 ![Nifty50 Price Prediction](<img width="1178" height="547" alt="Quant Model Nifty" src="https://github.com/user-attachments/assets/541c7313-fd11-4f4d-8af9-3a02d58c0a13" />
-)
+)<img width="1178" height="547" alt="Quant Model Nifty" src="https://github.com/user-attachments/assets/a03ed76e-9186-4c6f-97b8-6ce8d2c066e3" />
+
 
 ### Future 30-Day Forecast
 This chart displays the historical data along with the model's 30-day forecast into the future.
 
 ![Nifty50 30-Day Forecast](<img width="1178" height="547" alt="Quant Model Prediction" src="https://github.com/user-attachments/assets/e0571113-5b6c-43bc-8ea0-ea770742740f" />
-)
+)<img width="1178" height="547" alt="Quant Model Prediction" src="https://github.com/user-attachments/assets/58e3ed0e-2dfe-4c4c-aaea-e7a031cdf62a" />
+
 
 ## ⚙️ Model Architecture
 
